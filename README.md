@@ -1,1 +1,2 @@
-# job-portal
+# HireSpot
+Online job application portal
